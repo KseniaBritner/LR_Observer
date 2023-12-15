@@ -1,0 +1,11 @@
+D:\Курс_II\ООАиП\Observer\Program\bin\Debug\Program.exe.config
+D:\Курс_II\ООАиП\Observer\Program\bin\Debug\Program.exe
+D:\Курс_II\ООАиП\Observer\Program\bin\Debug\Program.pdb
+D:\Курс_II\ООАиП\Observer\Program\bin\Debug\Observer.dll
+D:\Курс_II\ООАиП\Observer\Program\bin\Debug\Observer.pdb
+D:\Курс_II\ООАиП\Observer\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+D:\Курс_II\ООАиП\Observer\Program\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+D:\Курс_II\ООАиП\Observer\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Курс_II\ООАиП\Observer\Program\obj\Debug\Program.csproj.CopyComplete
+D:\Курс_II\ООАиП\Observer\Program\obj\Debug\Program.exe
+D:\Курс_II\ООАиП\Observer\Program\obj\Debug\Program.pdb
